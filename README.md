@@ -1,4 +1,4 @@
-Hi I'm Josiah!
+Hi I'm @Johawka!
 I love technology and creating solutions that make a meanifingful impact!
 Currently working on Masters in Machine Learning and working at Tuple Data. 
 Excited to collaborate on any new projects that involve automation and integrating software-hardware ideas that have practical applications.
